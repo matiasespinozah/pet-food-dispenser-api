@@ -1,0 +1,4 @@
+OPEN_STATE = 'open'
+CLOSE_STATE = 'close'
+OPEN_VALUE = 5
+CLOSE_VALUE = 1
