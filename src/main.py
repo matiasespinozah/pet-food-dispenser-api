@@ -6,9 +6,6 @@ from flask_cors import CORS
 # Gpio imports
 from RPi.GPIO import cleanup
 
-# logger imports
-from logzero import logger
-
 # custom imports
 from controllers.door_motor import close_door
 from routes.door_api import DoorApi
